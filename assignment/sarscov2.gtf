@@ -1,0 +1,12 @@
+NC_045512.2	CDS	265	21555	.	1	.	gene_id "ORF1ab"; gene_name "ORF1ab"; product "ORF1ab polyprotein"; 
+NC_045512.2	CDS	265	13483	.	1	.	gene_id "ORF1ab"; gene_name "ORF1ab"; product "ORF1a polyprotein"; 
+NC_045512.2	CDS	21562	25384	.	1	.	gene_id "S"; gene_name "S"; product "surface glycoprotein"; 
+NC_045512.2	CDS	25392	26220	.	1	.	gene_id "ORF3a"; gene_name "ORF3a"; product "ORF3a protein"; 
+NC_045512.2	CDS	26244	26472	.	1	.	gene_id "E"; gene_name "E"; product "envelope protein"; 
+NC_045512.2	CDS	26522	27191	.	1	.	gene_id "M"; gene_name "M"; product "membrane glycoprotein"; 
+NC_045512.2	CDS	27201	27387	.	1	.	gene_id "ORF6"; gene_name "ORF6"; product "ORF6 protein"; 
+NC_045512.2	CDS	27393	27759	.	1	.	gene_id "ORF7a"; gene_name "ORF7a"; product "ORF7a protein"; 
+NC_045512.2	CDS	27755	27887	.	1	.	gene_id "ORF7b"; gene_name "ORF7b"; product "ORF7b"; 
+NC_045512.2	CDS	27893	28259	.	1	.	gene_id "ORF8"; gene_name "ORF8"; product "ORF8 protein"; 
+NC_045512.2	CDS	28273	29533	.	1	.	gene_id "N"; gene_name "N"; product "nucleocapsid phosphoprotein"; 
+NC_045512.2	CDS	29557	29674	.	1	.	gene_id "ORF10"; gene_name "ORF10"; product "ORF10 protein"; 
